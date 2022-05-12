@@ -4,7 +4,7 @@
 **marcelocuba10/marcelocuba10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
-  <img src="https://github.com/marcelocuba10/marcelocuba10/blob/main/helloWorld.gif" alt="header"/>
+  <img style="width: 100%;height: 370px;" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/hello-world.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -43,11 +43,11 @@ UX-UI Design: Layout and Wireframes for an ERP System.</samp></p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
+  <img style="max-width: 49% !important;width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
 </a>
-  &nbsp
+&nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img style="max-width: 49% !important;width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
 </p>
 
