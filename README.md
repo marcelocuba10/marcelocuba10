@@ -6,7 +6,6 @@
 <div align="center">
   <img style="width: 100%;height: 370px;" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/hello-world.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
