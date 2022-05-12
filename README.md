@@ -19,21 +19,21 @@
 
 <h2 align="center"> :computer: Languages and Tools</h2>
 <p align="center">
-  <img align="" alt="Android" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/android.png" />
-  <img align="" alt="Angular" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/angular.png" />
-  <img align="" alt="Firebase" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/firebase.png" />
-  <img align="" alt="Git" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/git.png" />
-  <img align="" alt="Github" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/github.png" />
-  <img align="" alt="Google Cloud" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/google-cloud.png" />
-  <img align="" alt="HTML5" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/html.png" />
-  <img align="" alt="Ionic" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/ionic.png" />
-  <img align="" alt="Javascript" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/javascript.png" />
-  <img align="" alt="Laravel" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/laravel.png" />
-  <img align="" alt="MySQL" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/mysql.png" />
-  <img align="" alt="RestFul API" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/rest-api.png" />
-  <img align="" alt="Terminal" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/terminal.png" />
-  <img align="" alt="Typescript" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/typescript.png" />
-  <img align="" alt="Wordpress" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/wordpress.png" />
+  <img alt="Android" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/android.png" />
+  <img alt="Angular" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/angular.png" />
+  <img alt="Firebase" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/firebase.png" />
+  <img alt="Git" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/git.png" />
+  <img alt="Github" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/github.png" />
+  <img alt="Google Cloud" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/google-cloud.png" />
+  <img alt="HTML5" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/html.png" />
+  <img alt="Ionic" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/ionic.png" />
+  <img alt="Javascript" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/javascript.png" />
+  <img alt="Laravel" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/laravel.png" />
+  <img alt="MySQL" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/mysql.png" />
+  <img alt="RestFul API" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/rest-api.png" />
+  <img alt="Terminal" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/terminal.png" />
+  <img alt="Typescript" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/typescript.png" />
+  <img alt="Wordpress" width="45px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/wordpress.png" />
 </p>
 
 <p align="center"><samp>Knowledge in developing Web Pages, E-commerce, Landing Page with WordPress using DIVI Builder.
