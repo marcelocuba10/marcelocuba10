@@ -43,10 +43,11 @@ UX-UI Design: Layout and Wireframes for an ERP System.</p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
+  <img style="max-width: 49%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
 </a>
+  &nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img style="max-width: 49%;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
 </p>
 
