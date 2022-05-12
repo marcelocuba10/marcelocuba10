@@ -50,23 +50,6 @@ UX-UI Design: Layout and Wireframes for an ERP System.</p>
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-  src="https://github.com/marcelocuba10/BackendAppJahuga/blob/main/images/stat.svg"
-  alt="AppBackend Laravel WakaTime Activity"
-/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-</a>
-</p>
-
-
-
 <h2 align="center"> :speech_balloon: Connect with me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/marcelocuba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
