@@ -37,17 +37,17 @@
   <img align="" alt="Wordpress" width="30px" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/wordpress.png" />
 </p>
 
-<p align="center">Knowledge in developing Web Pages, E-commerce, Landing Page with WordPress using DIVI Builder.
+<p align="center"><samp>Knowledge in developing Web Pages, E-commerce, Landing Page with WordPress using DIVI Builder.
 Mobile Development: Ionic Framework, Typescript programming language integrated with AngularJs.
-UX-UI Design: Layout and Wireframes for an ERP System.</p>
+UX-UI Design: Layout and Wireframes for an ERP System.</samp></p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 49%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
+  <img style="max-width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocuba10&show_icons=true&theme=cobalt&layout=compact" alt="Anurag's github stats" />
 </a>
   &nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 49%;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img style="max-width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
 </p>
 
