@@ -13,6 +13,7 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=marcelocuba10" alt="https://github.com/marcelocuba10" />
   <img src="https://camo.githubusercontent.com/03ec14ee4ad5c4312d1c40c7475df4de3c1d00bfd2aaaf36b4ef73eae4c473ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174266c6f676f3d676974687562" alt="PRs Welcome" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&amp;logo=github" style="max-width: 100%;">
+  <img src="https://wakatime.com/badge/user/6729bd18-194f-4301-8f4d-53c3a9223863.svg" alt="https://github.com/marcelocuba10" />
 </p>
 
 <hr>
@@ -46,7 +47,7 @@ UX-UI Design: Layout and Wireframes for an ERP System.</samp></p>
 </a>
 &nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 49% !important;width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img style="max-width: 49% !important;width: 49% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocuba10&show_icons=true&theme=tokyonight&hide=contribs&include_all_commits=true&count_private=true" />
 </a>
 </p>
 
