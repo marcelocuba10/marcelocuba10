@@ -9,7 +9,7 @@
 
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
-  <samp>Front-end Developer - Freelancer, more than 5 years in the world of web development, Specialist in e-commerce with WordPress using Divi. Google IT Technical Support Professional Certificate, intermediate experience in UX/UI design for mobile applications and web systems.</samp>
+  <samp>Focused in Front-end Developer - Web Services - Freelancer, more than 5 years in the world of web development, knowledge in programming logic, Specialist in e-commerce with WordPress using Divi. Google IT Technical Support Professional Certificate, intermediate experience in UX/UI design for mobile applications and web systems.</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=marcelocuba10" alt="https://github.com/marcelocuba10" />
   <img src="https://camo.githubusercontent.com/03ec14ee4ad5c4312d1c40c7475df4de3c1d00bfd2aaaf36b4ef73eae4c473ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174266c6f676f3d676974687562" alt="PRs Welcome" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&amp;logo=github" style="max-width: 100%;">
