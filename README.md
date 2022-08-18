@@ -4,7 +4,7 @@
 **marcelocuba10/marcelocuba10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
-  <img width="1080" height="370px" style="width: 100% !important ;height: 370px !important;" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/hello-world.gif" alt="header"/>
+  <img width="1080" height="370px" style="width: 78% !important ;float:left; height: 370px !important;" src="https://github.com/marcelocuba10/marcelocuba10/blob/main/images/hello-world.gif" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 About me</h2>
